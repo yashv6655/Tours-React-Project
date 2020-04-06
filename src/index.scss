@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$black : #272727;
+$white: #fff;
+$pink: #f2476a;
+$silver: #CACACA;
+body{
+  font-family: 'Open Sans', sans-serif;
+  background: $white;
+  color: $black;
+}
